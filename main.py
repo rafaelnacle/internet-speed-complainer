@@ -1,6 +1,5 @@
 import os
 from dotenv import load_dotenv
-from selenium import webdriver
 from bot import InternetSpeedTwitterBot
 
 load_dotenv()
